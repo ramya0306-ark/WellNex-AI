@@ -1,4 +1,5 @@
 # WellNex-AI
+https://nontopographical-inaudibly-georgie.ngrok-free.dev/
 WellNex AI – Smart Wellness for the Next Generation is an AI-powered Personal Health Coach that analyzes health and lifestyle data to deliver personalized wellness insights. It evaluates sleep, activity, habits, and symptoms to help users make smarter, data-driven health decisions.
 ## Project Overview  
 Personal Health Coach is an AI-powered system designed to monitor, analyze, and enhance a user's health using wearable device data.  
@@ -40,4 +41,5 @@ Frontend: HTML, CSS, JavaScript / React
 Backend: Python / Node.js / Flask  
 AI / Analytics: Machine Learning, Data Analysis  
 Database: MySQL / MongoDB / Firebase  
-git clone https://github.com/yourusername/personal-health-coach.git
+[git clone https://github.com/yourusername/personal-health-coach.git
+]
