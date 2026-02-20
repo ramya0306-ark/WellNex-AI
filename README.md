@@ -43,5 +43,5 @@ Frontend: HTML, CSS, JavaScript / React
 Backend: Python / Node.js / Flask  
 AI / Analytics: Machine Learning, Data Analysis  
 Database: MySQL / MongoDB / Firebase  
-[git clone https://github.com/yourusername/personal-health-coach.git
+[git clone https://github.com/ramya-0306/personal-health-coach.git
 ]
